@@ -12,6 +12,13 @@
 		998E8EE71F9520B500B7423A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EE51F9520B500B7423A /* Main.storyboard */; };
 		998E8EE91F9520B500B7423A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EE81F9520B500B7423A /* Assets.xcassets */; };
 		998E8EEC1F9520B500B7423A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EEA1F9520B500B7423A /* LaunchScreen.storyboard */; };
+		998E8EFA1F95245000B7423A /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EF31F95245000B7423A /* note1.wav */; };
+		998E8EFB1F95245000B7423A /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EF41F95245000B7423A /* note2.wav */; };
+		998E8EFC1F95245000B7423A /* note3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EF51F95245000B7423A /* note3.wav */; };
+		998E8EFD1F95245000B7423A /* note4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EF61F95245000B7423A /* note4.wav */; };
+		998E8EFE1F95245000B7423A /* note5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EF71F95245000B7423A /* note5.wav */; };
+		998E8EFF1F95245000B7423A /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EF81F95245000B7423A /* note6.wav */; };
+		998E8F001F95245000B7423A /* note7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 998E8EF91F95245000B7423A /* note7.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		998E8EE81F9520B500B7423A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		998E8EEB1F9520B500B7423A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		998E8EED1F9520B500B7423A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		998E8EF31F95245000B7423A /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note1.wav; sourceTree = "<group>"; };
+		998E8EF41F95245000B7423A /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note2.wav; sourceTree = "<group>"; };
+		998E8EF51F95245000B7423A /* note3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note3.wav; sourceTree = "<group>"; };
+		998E8EF61F95245000B7423A /* note4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note4.wav; sourceTree = "<group>"; };
+		998E8EF71F95245000B7423A /* note5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note5.wav; sourceTree = "<group>"; };
+		998E8EF81F95245000B7423A /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note6.wav; sourceTree = "<group>"; };
+		998E8EF91F95245000B7423A /* note7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note7.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +68,13 @@
 		998E8EE01F9520B500B7423A /* Piano */ = {
 			isa = PBXGroup;
 			children = (
+				998E8EF31F95245000B7423A /* note1.wav */,
+				998E8EF41F95245000B7423A /* note2.wav */,
+				998E8EF51F95245000B7423A /* note3.wav */,
+				998E8EF61F95245000B7423A /* note4.wav */,
+				998E8EF71F95245000B7423A /* note5.wav */,
+				998E8EF81F95245000B7423A /* note6.wav */,
+				998E8EF91F95245000B7423A /* note7.wav */,
 				998E8EE11F9520B500B7423A /* AppDelegate.swift */,
 				998E8EE31F9520B500B7423A /* ViewController.swift */,
 				998E8EE51F9520B500B7423A /* Main.storyboard */,
@@ -96,7 +117,6 @@
 				TargetAttributes = {
 					998E8EDD1F9520B400B7423A = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 9Q86QU4A8J;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -124,6 +144,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				998E8EFF1F95245000B7423A /* note6.wav in Resources */,
+				998E8EFE1F95245000B7423A /* note5.wav in Resources */,
+				998E8EFC1F95245000B7423A /* note3.wav in Resources */,
+				998E8EFA1F95245000B7423A /* note1.wav in Resources */,
+				998E8EFD1F95245000B7423A /* note4.wav in Resources */,
+				998E8EFB1F95245000B7423A /* note2.wav in Resources */,
+				998E8F001F95245000B7423A /* note7.wav in Resources */,
 				998E8EEC1F9520B500B7423A /* LaunchScreen.storyboard in Resources */,
 				998E8EE91F9520B500B7423A /* Assets.xcassets in Resources */,
 				998E8EE71F9520B500B7423A /* Main.storyboard in Resources */,
@@ -261,7 +288,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9Q86QU4A8J;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Piano/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.vigankrasniqi.Piano;
@@ -274,7 +301,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9Q86QU4A8J;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Piano/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.vigankrasniqi.Piano;
